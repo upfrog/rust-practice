@@ -1,2 +1,2 @@
 # rust-practice
-Messing around with rust some
+Messing around some with rust.
